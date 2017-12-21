@@ -1,2 +1,2 @@
 # content-jenkins-freestyle
-Hello Git Push test 5
+Hello Git Push test 6
